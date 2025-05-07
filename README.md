@@ -1,6 +1,6 @@
 # Lunar Lander (Deep Q-Network - DQN)
 
-This project implements a reinforcement learning agent for the **LunarLander-v2** environment from **OpenAI Gym**, using the **Deep Q-Network (DQN)** algorithm. The agent’s goal is to safely land a lunar lander on the moon's surface by controlling its altitude, rotation, and orientation using thrusters. The environment challenges the agent with a physics-based simulation where it must optimize fuel usage while avoiding crashes.
+This project implements a reinforcement learning agent for the **LunarLander-v3** environment from **OpenAI Gym**, using the **Deep Q-Network (DQN)** algorithm. The agent’s goal is to safely land a lunar lander on the moon's surface by controlling its altitude, rotation, and orientation using thrusters. The environment challenges the agent with a physics-based simulation where it must optimize fuel usage while avoiding crashes.
 
 ## Key Features
 
